@@ -9,15 +9,16 @@ export default function Page() {
       <h1 className="mb-8 text-2xl tracking-tighter">
         <span className="font-normal">Fajri Tsani's</span>{" "}
         <span className="font-semibold">Portfolio</span>
+        <span className="font-normal"> 🌱</span>
       </h1>
 
       <p className="mb-4">
-        {`I am a QA Engineer with `}
+        {`👋 Hi! I am a QA Engineer with `}
         <strong>3+ years of experience in manual and automation testing</strong>
-        {`, holding a Master's degree in `}
+        {`, holding a Master's degree in 👨‍🎓 `}
         <strong>Information Technology</strong>
         {`. Passionate about `}
-        <strong>coding, data, and AI</strong>
+        <strong>coding 💻, data 📊, and AI 🤖</strong>
         {`. I specialize in delivering high-quality software solutions through effective test strategies that identify and mitigate risks early in the development process. I thrive in collaborative environments, fostering strong relationships with cross-functional teams, and am committed to continuous learning and innovation in quality assurance.`}
       </p>
 
